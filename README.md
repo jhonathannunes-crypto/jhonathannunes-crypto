@@ -1,16 +1,31 @@
-## Hi there 👋
+👋 Olá! Eu sou o Jhonathan Nunes
 
-<!--
-**jhonathannunes-crypto/jhonathannunes-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Tecnologia da Informação com paixão por resolver problemas, otimizar sistemas e explorar alta performance — seja no código ou na graxa.
 
-Here are some ideas to get you started:
+Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Formação: Cursando Técnico em TI.
+
+👤 Perfil: 20 anos, solteiro e focado em evolução constante na área de tecnologia.
+
+💻 Objetivo: Desenvolver projetos práticos, aprimorar lógica de programação e aprender novas ferramentas de infraestrutura e software.
+
+Além do Código (Hobbies)
+
+🛠️ Preparação de Motores: Entusiasta de mecânica de alta performance. Adoro entender a fundo o funcionamento interno dos motores, acertos e extrair a maior eficiência dos projetos.
+
+🏍️ Viagens de Moto: Apaixonado pela liberdade da estrada, conhecendo novos caminhos e destinos sobre duas rodas.
+
+Tecnologias & Competências
+
+💻 Linguagens & Web: (Adicione suas linguagens: HTML, CSS, JavaScript, Python, C++, etc.)
+
+🔧 Sistemas & Hardware: Montagem, manutenção de computadores, suporte e redes.
+
+🛠️ Ferramentas: Git, GitHub, VS Code.
+
+Vamos nos conectar?
+
+💼 LinkedIn: Seu LinkedIn
+
+📧 E-mail: seu-email@email.com
