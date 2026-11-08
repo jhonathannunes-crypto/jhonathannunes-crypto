@@ -26,6 +26,6 @@ Tecnologias & Competências
 
 Vamos nos conectar?
 
-💼 LinkedIn: Seu LinkedIn
+💼 LinkedIn: www.linkedin.com/in/jhonathan-nunes
 
-📧 E-mail: seu-email@email.com
+📧 E-mail: jhonathan_nunes@icloud.com
